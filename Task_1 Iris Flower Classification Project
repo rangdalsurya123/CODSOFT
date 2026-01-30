@@ -1,0 +1,49 @@
+
+# Iris Flower Classification 🌸
+
+## 📌 Project Overview
+This project focuses on classifying iris flowers into three species:
+- Setosa
+- Versicolor
+- Virginica
+
+The classification is done using a **Logistic Regression** machine learning model.
+
+---
+
+## 🧠 Machine Learning Model
+- Algorithm: Logistic Regression
+- Dataset: Iris dataset (from sklearn)
+- Train-Test Split: 80% / 20%
+
+---
+
+## 📊 Results
+- Model Accuracy: **100%**
+- Evaluation Metrics:
+  - Precision
+  - Recall
+  - F1-score
+- Confusion Matrix visualization included
+
+---
+
+## 🛠 Tools & Libraries Used
+- Python
+- Google Colab
+- NumPy
+- Pandas
+- Scikit-learn
+- Matplotlib
+- Seaborn
+
+
+##🚀 How to Run
+1. Open the notebook file
+2. Run all cells sequentially
+3. View accuracy and evaluation metrics
+
+
+## 👤 Author
+**Surya Teja**  
+CODSOFT Internship – Machine Learning Task 1
